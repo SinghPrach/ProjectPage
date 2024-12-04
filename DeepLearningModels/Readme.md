@@ -1,0 +1,1 @@
+Deep learning is a subset of machine learning that uses neural networks with many layers (hence "deep") to model complex patterns and representations in data. Deep learning models are inspired by the structure and function of the human brain, specifically artificial neural networks (ANNs), which are composed of interconnected layers of nodes or "neurons."
