@@ -1,0 +1,1 @@
+Text Analysis (also known as Text Mining or Natural Language Processing (NLP)) is the process of extracting useful information and insights from unstructured text data. It involves various techniques to analyze, understand, and interpret human language in a way that allows computers to process and derive meaning from text.
