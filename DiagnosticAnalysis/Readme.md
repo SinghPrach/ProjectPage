@@ -1,0 +1,1 @@
+Diagnostic Analysis is a type of data analysis that seeks to understand why something happened by exploring the causes and factors behind specific outcomes or trends. It goes beyond descriptive analysis (which simply summarizes data) and predictive analysis (which forecasts future trends). 
