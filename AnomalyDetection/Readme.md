@@ -1,0 +1,1 @@
+Anomaly Detection is the process of identifying patterns in data that do not conform to expected behavior. These patterns, also known as outliers, exceptions, or novelties, represent data points that deviate significantly from the majority of the data. Anomaly detection is an important technique in many fields, including fraud
