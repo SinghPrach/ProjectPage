@@ -1,0 +1,1 @@
+Predictive analysis refers to the process of using historical data, statistical algorithms, and machine learning techniques to identify patterns and make predictions about future events or outcomes. It involves analyzing past data to forecast potential future scenarios, trends, or behaviors.
