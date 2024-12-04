@@ -1,0 +1,1 @@
+Survival Analysis is a branch of statistics that deals with analyzing the time until an event of interest occurs. This event is typically called a "failure" or "endpoint," and it could represent any number of outcomes, such as the time until a patient dies, the time until a machine breaks down, or the time until a customer churns.
