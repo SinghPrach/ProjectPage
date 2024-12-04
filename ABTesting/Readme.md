@@ -1,0 +1,3 @@
+A/B Testing, also known as split testing, is a statistical method used to compare two or more versions of a variable (such as a webpage, ad, or product feature) to determine which one performs better. The process involves randomly dividing a population into two (or more) groups, each exposed to a different version of the variable, and measuring the outcome to identify which version yields the most favorable result.
+
+A/B testing is widely used in digital marketing, product design, web development, and other fields to optimize user experience, improve conversion rates, and make data-driven decisions.
